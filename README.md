@@ -1,6 +1,6 @@
 # Epitranscriptomics and RNA Dynamics Lab 
 
-Welcome to the Github resource from the [Novoa Lab](https://www.crg.eu/en/programmes-groups/novoa-lab) at Center for Genomic Regulation ([CRG](https://www.crg.eu)).
+Welcome to the Github resource from the [Novoa Lab] at Center for Genomic Regulation ([CRG](https://www.crg.eu)).
 
 Useful links: 
 * [NovoaLab Github](https://github.com/novoalab)
